@@ -1,0 +1,9 @@
+securiterWeb
+securiterAcces
+securiterPassword
+passwordLong
+passwordLong
+securiterServeur
+phpinfo
+droits777
+
